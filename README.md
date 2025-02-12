@@ -1,5 +1,4 @@
 # Basic_Network_Sniffer
-<h1>Network Sniffer<h1>
 
 <h2>📌 What is a Network Sniffer?</h2>
 
