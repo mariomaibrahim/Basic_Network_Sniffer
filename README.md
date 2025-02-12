@@ -5,7 +5,7 @@
 
 A Network Sniffer is a tool that monitors network traffic and captures packets for analysis. These tools are used for identifying security issues, analyzing performance, or testing and development purposes.
 
-<p>⚡ How Does It Work?</p>
+<h1>⚡ How Does It Work?</h1>
 
 1. The program listens to a network interface.
 
