@@ -1,5 +1,4 @@
 # Basic_Network_Sniffer
-
 <h2>📌 What is a Network Sniffer?</h2>
 
 A Network Sniffer is a tool that monitors network traffic and captures packets for analysis. These tools are used for identifying security issues, analyzing performance, or testing and development purposes.
@@ -38,7 +37,7 @@ Libraries such as scapy or socket in Python.
 
 
 
-<h2 style : color=red>⚠ Important Notes</h2>
+<h2>⚠ Important Notes</h2>
 
 Ensure legal usage; intercepting network traffic without permission is illegal in many countries.
 
